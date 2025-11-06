@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-8.0-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
@@ -448,18 +448,8 @@ We welcome contributions! Please follow these guidelines:
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-## Contact
 
-For questions or support, please contact:
-- **Email**: support@dxtalent.com
-- **GitHub Issues**: [Create an issue](https://github.com/dipandhali2021/DXTalent/issues)
-
----
-
-**Built with ❤️ by the DXTalent Team**
+**Built with ❤️**
